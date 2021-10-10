@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kasty100
+- 👋 Hi, I’m @Kaustubh
 - 👀 I’m interested in Fullstack Developing / DevOps
 - 🌱 I’m currently learning Cloud AWS/GCP
 - 📫 You can reach me through mail kasty100@gmail.com
