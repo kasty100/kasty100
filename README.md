@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaustubh Pingalkar,
 - 👀  I am Backend Dev.
-- 🌱 SpringBoot | java | MySQL | Devops 
+- 🌱 SpringBoot | java | MySQL | Devops | DSA
 - 📫 You can reach me through mail kaustubhofficials@gmail.com
 - 👨‍🎓 LinkedIn- https://www.linkedin.com/in/kaustubh-pingalkar-78842112a/
